@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a84540e4.chunk.css",
+    "main.js": "/portfolio/static/js/main.668f18f8.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.668f18f8.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.c52dace4.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.c52dace4.js.map",
+    "static/js/2.96dd26dc.chunk.js": "/portfolio/static/js/2.96dd26dc.chunk.js",
+    "static/js/2.96dd26dc.chunk.js.map": "/portfolio/static/js/2.96dd26dc.chunk.js.map",
+    "static/js/3.ed12ef2e.chunk.js": "/portfolio/static/js/3.ed12ef2e.chunk.js",
+    "static/js/3.ed12ef2e.chunk.js.map": "/portfolio/static/js/3.ed12ef2e.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.a84540e4.chunk.css.map": "/portfolio/static/css/main.a84540e4.chunk.css.map",
+    "static/js/2.96dd26dc.chunk.js.LICENSE.txt": "/portfolio/static/js/2.96dd26dc.chunk.js.LICENSE.txt",
+    "static/media/background.f2c53720.mp4": "/portfolio/static/media/background.f2c53720.mp4",
+    "static/media/souravResume-converted.e78ad695.pdf": "/portfolio/static/media/souravResume-converted.e78ad695.pdf",
+    "static/media/thanos.ecc63c5f.png": "/portfolio/static/media/thanos.ecc63c5f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c52dace4.js",
+    "static/js/2.96dd26dc.chunk.js",
+    "static/css/main.a84540e4.chunk.css",
+    "static/js/main.668f18f8.chunk.js"
+  ]
+}
