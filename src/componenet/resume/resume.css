@@ -1,0 +1,28 @@
+.resume{
+  
+    margin-left:55em;
+    margin-bottom: 15em;
+}
+
+
+.resume-icon{
+    text-decoration: none;
+    color: black;
+    padding: 1em;
+     background-color: white;
+     border-radius: 5em;
+    
+}
+.resume-icon:hover,
+.resume-icon:active{
+   border: 0.3em solid black;
+   transition-delay: 0.3s;
+    
+}
+
+
+.fa-file-download{
+    font-size:1em;
+}
+
+

@@ -1,0 +1,21 @@
+.developer{
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: column;
+   margin:2em 5em;
+   color: white;
+   font-family: 'New Tegomin', serif; 
+   background-color: black;
+   opacity: 0.5;
+   padding-left: 40em;
+}
+
+.Developer-getInTouch {
+    font-size: 1.2em;
+    display: inline-block;
+    margin-left: 10em;
+  
+}
+.Developer-getInTouch i{
+    color: white;
+}

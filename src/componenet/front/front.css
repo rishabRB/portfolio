@@ -1,0 +1,16 @@
+.front{
+    display: flex;
+    flex-wrap: wrap;
+    color:white;
+    margin:5em 1em 20em ;
+    font-size:2em;
+    letter-spacing: 0.15em;
+    font-family: 'New Tegomin', serif; 
+    background-color:black ;
+    opacity:0.5;
+    padding: 10em;
+    
+}
+
+
+
